@@ -12,10 +12,10 @@ To use this repository, you must follow these steps:
 4. In your local copy of this repository, create a new root-level file called tweepy.env
 5. Add the following line in tweepy.env, and then save tweepy.env
 
-KEY='TODO'
-KEY_SECRET='TODO'
-TOKEN='TODO'
-TOKEN_SECRET='TODO'
+export KEY='TODO'
+export KEY_SECRET='TODO'
+export TOKEN='TODO'
+export TOKEN_SECRET='TODO'
 
 6. Run the following in your terminal:
     sudo pip install tweepy
